@@ -1,1 +1,1 @@
-import numpy az np
+import numpy as np
